@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aditya
+- 👀 I’m interested in making Softwares
+- 🌱 I’m currently completing my bachelor's degree in Computer science
