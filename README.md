@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **iamavs2002@gmail.com**
 
-- 📝 I am about to start writing articles on [adityavikram.vercel.app](adityavikram.vercel.app)
+- 📝 I am about to start writing articles on [blog](adityavikram.vercel.app)
 
 - ⚡ Fun fact **I think I am Funny...**
 
