@@ -14,11 +14,11 @@
 
 - 📝 I regularly write articles on [adityavikram.vercel.app](adityavikram.vercel.app)
 
-- 💬 Ask me about **reactJs, nodeJs, DSA**
+- 💬 Ask me about **Python, LLMs, GenAI, Front-End, DSA**
 
 - 📫 How to reach me **iamavs2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kdv-4FfiiaehE-M_gvn7fbx7KC1zpd8g/view?usp=drive_link](https://drive.google.com/file/d/1kdv-4FfiiaehE-M_gvn7fbx7KC1zpd8g/view?usp=drive_link)
+- 📄 Know about my experiences [Here :)](https://drive.google.com/file/d/1DQqNMBHk-xMqU0afyF-tUv1mCRm-S--R/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Funny...**
 
