@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [adityavikram.vercel.app](adityavikram.vercel.app)
 
-- 📝 I regularly write articles on [adityavikram.vercel.app](adityavikram.vercel.app)
+- 📄 Know about my experiences [Here :)](https://drive.google.com/file/d/1DQqNMBHk-xMqU0afyF-tUv1mCRm-S--R/view?usp=drive_link)
 
 - 💬 Ask me about **Python, LLMs, GenAI, Front-End, DSA**
 
 - 📫 How to reach me **iamavs2002@gmail.com**
 
-- 📄 Know about my experiences [Here :)](https://drive.google.com/file/d/1DQqNMBHk-xMqU0afyF-tUv1mCRm-S--R/view?usp=drive_link)
+- 📝 I am about to start writing articles on [adityavikram.vercel.app](adityavikram.vercel.app)
 
 - ⚡ Fun fact **I think I am Funny...**
 
