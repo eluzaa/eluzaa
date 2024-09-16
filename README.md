@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [adityavikram.vercel.app](adityavikram.vercel.app)
 
-- 📄 Know about my experiences [Here :)](https://drive.google.com/file/d/1DQqNMBHk-xMqU0afyF-tUv1mCRm-S--R/view?usp=drive_link)
+- 📄 Know about my experiences [Here :)](https://drive.google.com/file/d/1XWWb-tGzhpbUBpp5VTHwwhRoZ2E69sbb/view?usp=drive_link)
 
 - 💬 Ask me about **Python, LLMs, GenAI, Front-End, DSA**
 
