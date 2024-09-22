@@ -5,7 +5,7 @@
 <img src="https://media0.giphy.com/media/zgduo4kWRRDVK/giphy.webp?cid=ecf05e470uqwq3up04jx1uefrd9ybi89qon4cu8ct5d6rraj&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="" align='right'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluzaa&label=Profile%20views&color=0e75b6&style=flat" alt="eluzaa" /> </p>
-
+ 
 - 🔭 I’m currently working on **Creating a Dynamic Chatbot**
 
 - 🌱 I’m currently learning **Machine Learning and GenAI**
