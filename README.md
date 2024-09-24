@@ -22,6 +22,7 @@
 
 - ⚡ Fun fact **I think I am Funny...**
 
+
 <br><br><br><br>
 <p align="left">I thrive in the digital realm, where codes come to life and technology drives innovation. As a web developer, i like to work on web and related technologies, apart from this My expertise spans a wide range of domains, including cloud computing, web development and software engineering. I am a self-taught programmer, i read books, watch youtubes and definetly go to stackoverflow : )</p>
 <p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N2N3FyZXBneXJkdWNiNnh5ZjBvNW9qbXd1czRpaDAydWx5Ym41MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" alt="" align = "right" ></p>
