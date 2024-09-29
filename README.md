@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluzaa&label=Profile%20views&color=0e75b6&style=flat" alt="eluzaa" /> </p>
  
 - 🔭 I’m currently working on **Creating a Dynamic Chatbot**
- 
+  
 - 🌱 I’m currently learning **Machine Learning and GenAI**
 
 - 👨‍💻 All of my projects are available at [adityavikram.vercel.app](https://adityavikram.vercel.app/)
