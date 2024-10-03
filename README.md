@@ -8,7 +8,7 @@
  
 - 🔭 I’m currently working on **Creating a Dynamic Chatbot**
     
-- 🌱 I’m currently learning **Machine Learning and GenAI** 
+- 🌱 I’m currently learning **Machine Learning and GenAI**
 
 - 👨‍💻 All of my projects are available at [adityavikram.vercel.app](https://adityavikram.vercel.app/)
 
