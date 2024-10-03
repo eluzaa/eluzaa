@@ -20,7 +20,7 @@
  
 - 📝 I am about to start writing articles on [blog](adityavikram.vercel.app)
 
-- ⚡ Fun fact **I think I am Funny...**
+- ⚡ Fun fact **I think I am Funny...** 
 
  
 <br><br><br><br>
