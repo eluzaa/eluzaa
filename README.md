@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, LLMs, GenAI, Front-End, DSA**
 
-- 📫 How to reach me **iamavs2002@gmail.com**
+- 📫 How to reach me **iamavs2002@gmail.com** 
   
 - 📝 I am about to start writing articles on [blog](adityavikram.vercel.app)
 
