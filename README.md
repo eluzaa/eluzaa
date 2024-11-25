@@ -1,7 +1,7 @@
 ![Header](./adi.png)
 <h1 align="center">Aditya Vikram Singh</h1>
 <h3 align="center">A passionate Developer from India.</h3>
-                              
+                               
 <img src="https://media0.giphy.com/media/zgduo4kWRRDVK/giphy.webp?cid=ecf05e470uqwq3up04jx1uefrd9ybi89qon4cu8ct5d6rraj&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="" align='right'>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluzaa&label=Profile%20views&color=0e75b6&style=flat" alt="eluzaa" /> </p> 
